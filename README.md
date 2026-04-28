@@ -13,6 +13,7 @@ AUTOM8 is a stair-climbing campus delivery robot designed, fabricated, and teste
 The total prototype cost is approximately ₹33,000 (€370), funded entirely by the student team. AUTOM8 is presented as a proof-of-concept prototype demonstrating the mechanical and control feasibility of the proposed approach.
 
 ---
+<img src="assembled.jpg" width="305"/>
 
 ## The Problem
 
@@ -96,6 +97,7 @@ AUTOM8 demonstrates that a mechanically sound, stair-capable delivery robot can 
 The sequence repeats for each subsequent step. MPU-6050 and encoder are disabled during stair climbing and re-enabled when all three boxes reach the upper tread.
 
 ---
+<img src="stair_climbing.jpg" width="350"/>
 
 ## Design Calculations Summary
 
