@@ -4,6 +4,8 @@
 
 **Project Grade: O (Outstanding)**
 
+**Full Project Report:** [View Report (142 pages)](AUTOM8_Project_Report.pdf)
+
 ---
 
 ## Overview
@@ -114,7 +116,7 @@ The sequence repeats for each subsequent step. MPU-6050 and encoder are disabled
 
 ## Design Calculations Summary
 
-All six design calculations are documented in full in the project thesis (Appendix A).
+All six design calculations are documented in full in the project report (Appendix A).
 
 | Calculation | Key Result |
 |---|---|
@@ -162,7 +164,7 @@ Successfully validated. Immune to ambient lighting and surface colour. Occasiona
 
 ## Known Limitations
 
-22 limitations are fully documented in Appendix B of the project thesis. Key limitations:
+22 limitations are fully documented in Appendix B of the project report. Key limitations:
 
 - Open-loop motor control — no closed-loop speed feedback
 - Single encoder — ~10% distance error accumulated over longer routes
