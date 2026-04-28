@@ -13,7 +13,9 @@ AUTOM8 is a stair-climbing campus delivery robot designed, fabricated, and teste
 The total prototype cost is approximately ₹33,000 (€370), funded entirely by the student team. AUTOM8 is presented as a proof-of-concept prototype demonstrating the mechanical and control feasibility of the proposed approach.
 
 ---
-<img src="assembled.jpg" width="305"/>
+<img src="assembled.jpg" width="350"/>
+
+---
 
 ## The Problem
 
@@ -22,6 +24,14 @@ Multi-floor delivery in Indian academic institutions relies entirely on manual e
 AUTOM8 demonstrates that a mechanically sound, stair-capable delivery robot can be built at a cost that makes it genuinely deployable in Indian institutional environments.
 
 ---
+
+## Model design
+
+<img src="fusion360.jpeg" width="900"/>
+<img src="fusion360 (2).jpeg" width="900"/>
+
+---
+
 
 ## Key Technical Contributions
 
@@ -99,6 +109,9 @@ The sequence repeats for each subsequent step. MPU-6050 and encoder are disabled
 ---
 <img src="stair_climbing.jpg" width="350"/>
 
+---
+
+
 ## Design Calculations Summary
 
 All six design calculations are documented in full in the project thesis (Appendix A).
@@ -125,6 +138,9 @@ All six design calculations are documented in full in the project thesis (Append
 | Active piezo buzzer | 1 | Obstacle alert | Middle box |
 
 ---
+<img src="front_box.jpg" width="350"/>
+
+---
 
 ## Stair Climbing Control — Three Stages
 
@@ -138,6 +154,9 @@ LM393-based IR sensors at 5cm trigger distance. Abandoned due to inconsistent pe
 
 **Stage 3 — HC-SR04 ultrasonic triggering**
 Successfully validated. Immune to ambient lighting and surface colour. Occasional sensor mount displacement due to motor vibration noted. Available for deployment on staircases with variable or unknown dimensions.
+
+---
+<img src="gantry.jpg" width="350"/>
 
 ---
 
@@ -187,6 +206,19 @@ Successfully validated. Immune to ambient lighting and surface colour. Occasiona
 
 ---
 
+## Video Documentation
+
+**Stair climbing — timing-based control:** [Watch on YouTube](https://youtu.be/JYtEZw-AAes)
+
+**Stair climbing — HC-SR04 ultrasonic triggered:** [Watch on YouTube](https://youtu.be/veAblGGdoEw)
+
+**Constraint-reaction middle box lift:** [Watch on YouTube](https://youtu.be/paRk35sNHkk)
+
+**MPU-6050 heading correction test:** [Watch on YouTube](https://youtu.be/yI_KrRou6Mc)
+
+---
+
+
 ## Team
 
 | Name | Enrollment No. |
@@ -202,30 +234,7 @@ Successfully validated. Immune to ambient lighting and surface colour. Occasiona
 
 ---
 
-## Repository Contents
 
-```
-AUTOM8/
-├── README.md
-├── firmware/
-│   └── autom8_main.ino          # Arduino Mega 2560 main firmware
-├── docs/
-│   └── AUTOM8_Thesis.pdf        # Full project report (142 pages)
-├── design/
-│   └── fusion360/               # Fusion 360 chassis assembly files
-├── calculations/
-│   └── Appendix_A_Calculations  # All 6 design calculations
-└── media/
-    ├── photos/                  # Prototype photos
-    └── videos/                  # Stair climbing test videos
-```
 
----
-
-## Images to Include in README
-
-See below for guidance on which images to add and where.
-
----
 
 *B.Tech Robotics and Automation Engineering | Parul University, Vadodara | 2023–2024*
