@@ -25,7 +25,7 @@ AUTOM8 demonstrates that a mechanically sound, stair-capable delivery robot can 
 
 ---
 
-## Model design
+## CAD Model — Fusion 360
 
 <img src="fusion360.jpeg" width="900"/>
 <img src="fusion360 (2).jpeg" width="900"/>
