@@ -4,7 +4,7 @@
 
 **Project Grade: O (Outstanding)**
 
-**Full Project Report:** [View Report (142 pages)](AUTOM8_Project_Report.pdf)
+**Full Project Repor:** [View Report (142 pages)](AUTOM8_Project_Report.pdf)
 
 ---
 
