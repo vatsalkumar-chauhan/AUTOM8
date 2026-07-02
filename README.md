@@ -4,7 +4,7 @@
 
 **Project Grade: O (Outstanding)**
 
-**Full Project technical document:** [View Report (142 pages)](AUTOM8_Project_Report.pdf)
+**Full Project technical document:** [AUTOM8 Comprehensive Technical Documentation](./AUTOM8%20Comprehensive%20Technical%20Documentation.pdf)
 
 ---
 
